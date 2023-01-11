@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AristideBH
-- 👀 I’m interested in design, coding, 3D modeling/printing and many more
-- 🌱 I’m currently learning PHP OOP / Sveltekit
-- 💞️ I’m looking to collaborate on great projects
+- 👋 Hi, I’m Aristide and from Paris, France
+- 👀 I’m interested in print and web design, 3D modeling and printing, ervreything DIY and many many more...
+- 🌱 I’m currently learning Svelte/SvelteKit, while working at [Noise](https://noise.fr)
+- 💞️ I’m looking to collaborate on various projects, as graphic designer or front-end/back-end/full-stack developper.
 - 📫 Drop me a mail at aristide.bruneau@gmail.com
 
 <!---
