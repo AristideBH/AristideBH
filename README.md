@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aristide and from Paris, France
-- 👀 I’m interested in print and web design, 3D modeling and printing, ervreything DIY and many many more...
+- 👀 I’m interested in print and web design, 3D modeling and printing, everything DIY and many many more...
 - 🌱 I’m currently extending my knowledge with Svelte/SvelteKit, while providing my services as a [freelance](https://aristide-bh.com)
 - 💞️ I’m looking to collaborate on various projects, as graphic designer or front-end/back-end/full-stack developper.
 - 📫 Drop me a mail at aristide.bruneau@gmail.com
